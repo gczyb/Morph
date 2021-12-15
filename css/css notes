@@ -1,0 +1,131 @@
+
+random paste for style.css code
+
+body {
+    background-color:rgb(238, 238, 236);
+}
+
+.menu a:hover {
+    background-color: rgb(238, 238, 236);
+    text-decoration: underline;
+}
+
+.menu a {
+    text-shadow: 1px 1px rgb(210, 210, 210);
+
+}
+
+
+DIFFERENT COLOURS
+     LIGHT MODE
+
+     body {
+        background-color:rgb(238, 238, 236);
+
+    }
+
+     .menu a {
+            border: 0px solid black;
+            color: black;
+    } 
+
+    .menu a:hover {
+        color: rgba(201, 201, 172, 0.966);
+        text-decoration: none;
+    }
+
+    .Contact { 
+                font-family:monospace;
+                color: rgb(82, 81, 81);
+                
+                position: fixed;
+                top: 261px;
+                right: 25px;
+                left: 25px;
+    }
+            
+    .Contact a {
+               text-decoration: none;
+               color: rgb(54, 53, 53);
+    }
+    
+
+
+     *DARK MODE*
+
+
+     body {
+        background-color:rgb(18, 18, 18);
+        font-family: -apple-system, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+        text-align: center;
+    }
+    
+    h1 {
+        color: rgb(133, 177, 148);
+        text-align: center;
+        
+    }
+    
+    p {
+        color: #5f685f;
+        position: relative;
+        left: 0px;
+        top: -20px;
+        font-size: 8px;
+        text-align: center;
+    }
+    
+    img {
+        width: 282px;
+        height: 423px;
+        padding: 0px;
+         padding-top: 40px;
+        top: 40px
+    }
+    
+    
+    .menu {
+        position: absolute;
+        top: 300px;
+    }
+    
+    .menu a {
+        border: 0px solid black;
+        color: rgb(65, 70, 70);
+        margin: 5px 36px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        cursor: pointer;
+        width: 40px;
+        display: block;
+        text-decoration: none;
+        position: relative;
+    }
+    
+    
+      .menu a:not(:last-child):not(:last-child) {
+        border-bottom: none;
+    }
+      
+      .menu a:hover {
+        color: rgb(119, 155, 131);
+        text-decoration: none;
+    }
+    
+    
+      .Contact {
+        font-family:monospace;
+        color: rgb(80, 87, 87);
+        
+        position: fixed;
+        top: 241px;
+        right: 25px;
+        left: 25px;
+    }
+    
+      .Contact a {
+       text-decoration: none;
+       color: rgb(78, 80, 80);
+    }
+    
