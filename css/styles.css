@@ -109,7 +109,7 @@ p{
  
    .itemsh-select{
    position: fixed;
-   top: 800px;
+   top: 855px;
    right: 0px;
    left: 860px;
    
@@ -136,7 +136,7 @@ p{
     width: 378px; /* 828x828 org */
     height: 378px;
     padding: 10px;
- }
+}
 
  .itemsh-title2{
    font-family:monospace;
@@ -149,13 +149,6 @@ p{
    left: 20px;
 
 }
- .itemsh-select2{
-   position: fixed;
-   top: 800px;
-   right: 0px;
-   left: 860px;
-   
- }
 
 /* "shop" */
 
