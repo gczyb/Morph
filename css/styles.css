@@ -102,7 +102,7 @@ p{
    color:rgb(black); /* whitesmoke OR 65,70,70 */
 
    position: fixed;
-   top: 491px;   
+   top: 490px;   
    right: 0px;
    left: 20px;
 }
@@ -136,6 +136,25 @@ p{
     width: 310px; /* 564x828 org */
     height: 420px;
     padding: 10px;
+ }
+
+ .itemsh-title2{
+   font-family:monospace;
+   font-size: 15px;
+   color:rgb(black); /* whitesmoke OR 65,70,70 */
+
+   position: fixed;
+   top: 550px;   
+   right: 0px;
+   left: 20px;
+}
+
+ .itemsh-select2{
+   position: fixed;
+   top: 800px;
+   right: 0px;
+   left: 860px;
+   
  }
 
 /* "shop" */
