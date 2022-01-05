@@ -87,40 +87,39 @@ p{
 /* "item-page" */
 
    .itemsh-left{
-   position: fixed;
+   position: static;
    top: 170px;
    left: 540px;
    right: 0px;
 
-   width: 280px; /* 564x828 org */
-   height: 420px;
+   width: 240px; /* 564x828 org */
+   height: 380px;
 }
 
    .itemsh-title{
    font-family:monospace;
-   color:rgb(65,70,70); /* whitesmoke OR 65,70,70 */
+   font-size: 15px;
+   color:rgb(black); /* whitesmoke OR 65,70,70 */
 
    position: fixed;
-   top: 160px;   
+   top: 491px;   
    right: 0px;
-   left: 600px;
+   left: 20px;
 }
  
    .itemsh-select{
    position: fixed;
-   top: 500px;
+   top: 800px;
    right: 0px;
-   left: 795px;
+   left: 860px;
    
 }    
 
    .itemsh-text{
    color: black; /* beige OR black */
    
-   position: fixed;
-   text-align: left;
-
-   top: 220px;   
+   position: static;
+   top: 260px;   
    right: 0px;
    left: 850px;
 }
