@@ -102,7 +102,7 @@ p{
    color:rgb(black); /* whitesmoke OR 65,70,70 */
 
    position: fixed;
-   top: 490px;   
+   top: 510px;   
    right: 0px;
    left: 20px;
 }
@@ -133,8 +133,8 @@ p{
     left: 505px;
     right: 0px;
  
-    width: 310px; /* 564x828 org */
-    height: 420px;
+    width: 378px; /* 828x828 org */
+    height: 378px;
     padding: 10px;
  }
 
@@ -147,8 +147,8 @@ p{
    top: 550px;   
    right: 0px;
    left: 20px;
-}
 
+}
  .itemsh-select2{
    position: fixed;
    top: 800px;
